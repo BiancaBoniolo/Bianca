@@ -1,0 +1,144 @@
+@font-face {
+    font-family: sourcecode;
+    src: url(../texto/fontes/SourceCodePro-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: comfortaa;
+    src: url(../texto/fontes/comfortaa/Comfortaa-VariableFont_wght.ttf);
+}
+
+
+.principal{background-color: #177499;
+    border: solid; border-color:#fff ;
+    font-family:sourcecode;
+    text-align: right;
+    position: relative;
+    padding: 30px;
+    left: 0px;
+    right: 0px;}
+
+    .principal a {text-decoration: none;
+        border: solid; border-color:#fff ;
+        padding: 30px;
+        font-size: 40px;
+        color: #ffffff;
+    }
+
+    h1 {font-family: sourcecode;
+        position: relative;
+        left: 250px;
+        top: -20px;
+        font-size: 60px;
+        color: #ffffff;}
+
+    h3 {font-family: sourcecode;
+        position: relative;
+        left: 250px;
+        top: -20px;
+        font-size: 60px;
+        color: #177499;}
+
+    p3{font-family: comfortaa;
+       position: relative;
+       text-align: left;
+       font-size: x-large;
+       width: 30px;
+       left: 300px;
+       top: -50px;
+       line-height: 40px;}
+
+    p{font-family: comfortaa;
+        position: relative;
+        text-align: left;
+        font-size: 24px;
+        width: 650px;
+        left: 750px;
+        top: 150px;
+        line-height: 30px;}
+
+     p2{font-family: comfortaa;
+        position: relative;
+        text-align: left;
+        font-size: xx-large;
+        width: 200px;
+        left: 500px;
+        top: 80px;
+        line-height: 10px;}
+
+        p22{font-family: comfortaa;
+            position: relative;
+            text-align: left;
+            font-size: xx-large;
+            width: 200px;
+            left: -150px;
+            top: 150px;
+            line-height: 10px;}
+
+p4 {font-family: comfortaa;
+    position: relative;
+    text-align: left;
+    font-size: xx-large;
+    width: 200px;
+    left: 250px;
+    top: 20px;
+    line-height: 10px;}
+    
+
+    .logo { position: absolute;
+        right: 500px;
+        left: 50px;
+        top: 30px;
+        size: 10px;
+        padding-left: 15px;}
+
+    .eu {position: relative;
+        border-radius: 8%;
+        left: 300px;
+        top:-290px;}
+
+    .insta{position: relative;
+    left: 450px;
+    top:-100px;
+    border-color: #ffffff;
+     }
+    
+/*socorro, deus*/
+body {background-image: url(../imagem/geral/fundo1.jpg);height: 920px;width: 1920px;}
+
+    h4{padding-top: 40px;position: relative;top: -30px;}
+
+.botao {background-color: #177499; height: 100px; ; text-align: center; 
+    position: absolute; width: 100%; bottom: -90px; font-family: comfortaa;}
+
+.botao a{background-color: #177499;position: relative;bottom: 40px;}
+
+.retangulo {background-color: #177499 ;width: 700px;height: 10px;position: absolute; left: 620px; top: 550px;}
+
+.setadir{position: absolute; top: 240px;left: 950px;}
+.setaesq{position: absolute; top: 240px;left: 890px;}
+
+.watts {position: absolute;top: 600px;left: 680px;width: fit-content;background-color: rgb(255, 255, 255);}
+
+.instad {position: absolute; top: 700px ; left: 920px ; background-color: transparent; border-color: transparent; order:unsebt;}
+
+.facas{height:350px; position:absolute; left:200px;}
+.marcap{height:300px; position:absolute; top: 500px; left:770px;}
+.calend{height:300px; position:absolute; top: 500px; right:200px;}
+
+
+.dobem {height: 340px; position: absolute;left: 250px; top: 500px;}
+.manual {height:350px; position:absolute; top: 500px; right:250px;}
+.omori {height:350px; position:absolute; top: 500px; right:760px;}
+
+
+
+.sapo{height:350px;position: absolute;left: 250px;top:330px;}
+.rosa{height:350px; position:absolute;left: 630px; top:330px;}
+.dio{ position:absolute;left: 930px; top:330px;}
+.anato{ position:absolute;right: 250px; top:330px;}
+
+.video{position: relative; left:500px}
+
+
+
